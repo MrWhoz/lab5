@@ -1,0 +1,14 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "testsql",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2",
+    "string": "^3.3.1",
+    "send":"*",
+    "path": "*"
+  }
+}

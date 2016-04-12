@@ -1,0 +1,8 @@
+{
+	"port": 5555,
+	"ip": "localhost",
+	"user": "root",
+	"password": "",
+	"database": "lab5db",
+	"table": "51204417"
+}
